@@ -7,6 +7,12 @@
 [![Open-Meteo](https://img.shields.io/badge/Weather%20API-Open--Meteo-orange.svg)](https://open-meteo.com/)
 [![NASA FIRMS](https://img.shields.io/badge/Satellite-NASA%20FIRMS-red.svg)](https://firms.modaps.eosdis.nasa.gov/)
 
+
+# Deployment link : Primary Live Domain:
+👉 https://agnidrishti-e3de7.web.app
+Secondary Firebase Domain:
+👉 https://agnidrishti-e3de7.firebaseapp.com
+
 **WildfireAI** is an end-to-end decision-support system built for disaster management, environmental monitoring agencies, and local emergency response teams. It integrates real-time satellite thermal detections from **NASA FIRMS**, high-precision zero-key meteorological telemetry from **Open-Meteo API**, a **Random Forest ML Risk Classifier**, and tactical AI Incident Advisory.
 
 ---
