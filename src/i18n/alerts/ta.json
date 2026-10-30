@@ -1,0 +1,7 @@
+{
+  "LOW": "{villageName} பகுதியில் தீ ஆபத்து குறைவு. எச்சரிக்கையாக இருங்கள், {safeZoneName} வழி தெரிந்துகொள்ளுங்கள்.",
+  "MODERATE": "{villageName} பகுதியில் மிதமான தீ ஆபத்து. {safeZoneName} செல்ல தயாராக இருங்கள், {timeToReach} நிமிடங்கள் ஆகும்.",
+  "HIGH": "{villageName} பகுதியை விட்டு வெளியேறுங்கள்! {safeZoneName} உடனே செல்லுங்கள், {timeToReach} நிமிட பயணம்.",
+  "CRITICAL": "ஆபத்து! {villageName} இப்போதே காலி செய்யுங்கள்! {safeZoneName} சென்றடையுங்கள், {timeToReach} நிமிடத்தில்.",
+  "test_prefix": "இது ஒரு சோதனை. "
+}

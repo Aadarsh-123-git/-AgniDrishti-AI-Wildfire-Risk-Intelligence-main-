@@ -1,0 +1,6 @@
+{
+  "name": "WildfireAI — Wildfire Prediction & Early Warning System",
+  "description": "AI-powered decision-support system featuring Random Forest wildfire risk prediction, GIS zone mapping, hotspot spatial clustering, population exposure estimation, and evacuation planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

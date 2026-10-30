@@ -1,0 +1,7 @@
+{
+  "LOW": "{villageName} లో అగ్ని ప్రమాదం తక్కువ. అప్రమత్తంగా ఉండండి, {safeZoneName} దారి తెలుసుకోండి.",
+  "MODERATE": "{villageName} లో మధ్యస్థ అగ్ని ప్రమాదం. {safeZoneName} కు వెళ్ళడానికి సిద్ధంగా ఉండండి, {timeToReach} నిమిషాలు పడుతుంది.",
+  "HIGH": "{villageName} విడిచిపెట్టండి! {safeZoneName} కు వెంటనే వెళ్ళండి, {timeToReach} నిమిషాల దారి.",
+  "CRITICAL": "ప్రమాదం! {villageName} ఇప్పుడే ఖాళీ చేయండి! {safeZoneName} చేరుకోండి, {timeToReach} నిమిషాల్లో.",
+  "test_prefix": "ఇది ఒక పరీక్ష. "
+}

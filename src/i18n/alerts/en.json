@@ -1,0 +1,7 @@
+{
+  "LOW": "Low fire risk in {villageName}. Stay alert, know the route to {safeZoneName}.",
+  "MODERATE": "Moderate fire risk in {villageName}. Be ready to move to {safeZoneName}, {timeToReach} minutes away.",
+  "HIGH": "Leave {villageName} now! Head to {safeZoneName} immediately, {timeToReach} minutes away.",
+  "CRITICAL": "Danger! Evacuate {villageName} now! Reach {safeZoneName} in {timeToReach} minutes.",
+  "test_prefix": "This is a test. "
+}
